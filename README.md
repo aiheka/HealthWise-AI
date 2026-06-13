@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HealthWise AI - Personalized Preventive Health Companion
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -297,3 +298,6 @@ For questions or feedback, please open an issue on GitHub.
 ---
 
 **Made with ❤️ for better health and well-being**
+=======
+# HealthWise-AI
+>>>>>>> 0abfa1d79b5461ab3ec2e40ccbff51b3a3fe30c3
