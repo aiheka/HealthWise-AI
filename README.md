@@ -283,7 +283,7 @@ HealthWise AI provides general health information for educational purposes only.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Aiheka Gadde
 
 ## 🙏 Acknowledgments
 
